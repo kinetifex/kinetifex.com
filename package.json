@@ -1,0 +1,16 @@
+{
+  "name": "kinetifex.com",
+  "version": "0.0.0",
+  "description": "Personal web site",
+  "license": "UNLICENSED",
+  "scripts": {
+    "local": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
