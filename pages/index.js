@@ -11,7 +11,7 @@ export default () => (
       <h1>Andrew Gerard</h1>
       <div className='definition'>
         <h2>kinetifex <small>noun</small></h2>
-        <div className='phonetics'>ki·​net·​ic <span>|</span> \ kə-ˈne-tə-ˌfeks \</div>
+        <div className='phonetics'>ki·​ne·t​i·fex <span>|</span> \ kə-ˈne-tə-ˌfeks \</div>
         <dl>
           <dt>Definition of <em>kinetifex</em></dt>
           <dd>: maker of motion</dd>
